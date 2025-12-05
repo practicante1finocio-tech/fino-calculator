@@ -1,2 +1,1 @@
-# fino-calculator
-Calculadora colaborativa
+Fino Calculator
